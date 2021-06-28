@@ -1,1755 +1,0 @@
-
-YõT
-	/host:CPUõ'†®÷¥
-tf_Compute/1690162950†®÷¥‡áëƒ
-
-	python3.8‡áëƒ
-"!õ‡áëƒ
-tf.constantH°‘Û
-Pˆ‚†".õ‡áëƒ
-TFE_Py_FastPathExecute_CHàî‡PøİºM"1õ‡áëƒ
-EagerExecute: TensorDatasetHÀ›û¦Pàú–-"6õ‡áëƒ
- EagerLocalExecute: TensorDatasetH¸‰ñ§P€²’,"2õ‡áëƒ
-ValidateInputTypeAndPlacementHØŸÉPğ¤-"(õ‡áëƒ
-EagerKernelExecuteHÀô›ÊP¸›º"\õ‡áëƒ
-TensorDatasetHØò“ÌPø†µZ(
-	long_nameTensorDataset:TensorDatasetZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÌ¡²æP€õ™»"4õ‡áëƒ
-EagerExecute: FlatMapDatasetHøÀîÒæP€‚˜"9õ‡áëƒ
-!EagerLocalExecute: FlatMapDatasetH¸áõÓæPˆä–"3õ‡áëƒ
-ValidateInputTypeAndPlacementH ¥µßçP¸İ<")õ‡áëƒ
-EagerKernelExecuteHÈé†áçP€ƒç"`õ‡áëƒ
-FlatMapDatasetH€ùÖãçPğå¸Z*
-	long_nameFlatMapDataset:FlatMapDatasetZ
-is_eager1""õ‡áëƒ
-tf.constantHØ­ßçüP˜é×"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHè—©’ıPàÙ˜­":õ‡áëƒ
-"EagerExecute: ParallelMapDatasetV2H˜£Æ¯ıP¸Ä»"?õ‡áëƒ
-'EagerLocalExecute: ParallelMapDatasetV2H¨×¢°ıPğ¨Ï"3õ‡áëƒ
-ValidateInputTypeAndPlacementHğı±¯şP¸¨$")õ‡áëƒ
-EagerKernelExecuteHğ›¥°şPèÅñ"rõ‡áëƒ
-ParallelMapDatasetV2Hèì±şP¨ß°	Z6
-	long_name)ParallelMapDatasetV2:ParallelMapDatasetV2Z
-is_eager1""õ‡áëƒ
-tf.constantH¨šé§ÿPˆËÄ",õ‡áëƒ
-TFE_DeleteTensorHandleH˜ü®µÿPøÜQ"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHøùıÏÿP€ˆ“˜"5õ‡áëƒ
-EagerExecute: OptimizeDatasetHàÖüâÿPã§‚":õ‡áëƒ
-"EagerLocalExecute: OptimizeDatasetHØ¥©ãÿPàÇâ"3õ‡áëƒ
-ValidateInputTypeAndPlacementHÈ£ªöÿPÀğ"*õ‡áëƒ
-EagerKernelExecuteHøÙæöÿP™Øì"dõ‡áëƒ
-OptimizeDatasetH€òè÷ÿPĞ»”êZ
-is_eager1Z,
-	long_nameOptimizeDataset:OptimizeDataset"Fõ‡áëƒ
-ExecutorState::ProcessH¸š¥äƒP°¼™Z
-id-1Z
-iter_num0"Fõ‡áëƒ
-ExecutorState::ProcessH€å«åƒPàæëZ
-id-1Z
-iter_num0"Yõ‡áëƒ
-PlaceholderH ï¬çƒP¨ÛvZ'
-	long_namePlaceholder/_0:PlaceholderZ
-is_eager0"-õ‡áëƒ
-_send_Const/_3_0:_SendH¨à¯ìƒP ©Í"4õ‡áëƒ
-ExecutorDoneCallbackHĞŸÖîƒPĞ·FZ
-id-1"Fõ‡áëƒ
-ExecutorState::ProcessHÀ‡Àï‘P°õŒ	Z
-id-1Z
-iter_num0"3õ‡áëƒ
-_recv_Placeholder/_0_0:_RecvHèàŠñ‘P¸¼"Fõ‡áëƒ
-ExecutorState::ProcessHø§´ò‘PğœôZ
-iter_num0Z
-id-1"`õ‡áëƒ
-TensorDatasetHğ…Üò‘Pàß£Z+
-	long_nameTensorDataset/_1:TensorDatasetZ
-is_eager0"bõ‡áëƒ
-FlatMapDatasetHà¸¨õ‘PøêvZ-
-	long_name FlatMapDataset/_2:FlatMapDatasetZ
-is_eager0"(õ‡áëƒ
-_send_Sink_0:_SendHàÜ–÷‘P¨Ú#"4õ‡áëƒ
-ExecutorDoneCallbackHÀ¸ë÷‘Pˆ©)Z
-id-1"/õ‡áëƒ
-TFE_Py_FastPathExecute_CHØô‚¾–Pˆ¬›."1õ‡áëƒ
-EagerExecute: ModelDatasetHÊÙÒ–PÈ†«"6õ‡áëƒ
-EagerLocalExecute: ModelDatasetHàş Ó–PøøÖ"3õ‡áëƒ
-ValidateInputTypeAndPlacementHğ—Íæ–P¸½")õ‡áëƒ
-EagerKernelExecuteHèŒ—ç–P¸ıÕ"Yõ‡áëƒ
-ModelDatasetH°•³è–Pè½kZ&
-	long_nameModelDataset:ModelDatasetZ
-is_eager1"/õ‡áëƒ
-TFE_Py_FastPathExecute_CHøé˜â—PøÛè0"8õ‡áëƒ
-!EagerExecute: AnonymousIteratorV2Hˆæ°ñ—Pà¤° "=õ‡áëƒ
-&EagerLocalExecute: AnonymousIteratorV2HÈšŞñ—PÈ×ø"3õ‡áëƒ
-ValidateInputTypeAndPlacementH¸Ìÿ—Pğ
-")õ‡áëƒ
-EagerKernelExecuteH ùúÿ—PéÁ"oõ‡áëƒ
-AnonymousIteratorV2HØŸğ˜PğŒ‹Z4
-	long_name'AnonymousIteratorV2:AnonymousIteratorV2Z
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHø²¯˜˜P™ÿÖ"2õ‡áëƒ
-EagerExecute: MakeIteratorHÈ‹œ˜PˆûÑ"7õ‡áëƒ
-EagerLocalExecute: MakeIteratorHèç¡œ˜PØüèĞ"3õ‡áëƒ
-ValidateInputTypeAndPlacementHÀ¹‡¢˜P€Ê"*õ‡áëƒ
-EagerKernelExecuteH¸—¯¢˜P¨£ Ê"[õ‡áëƒ
-MakeIteratorHĞş‡£˜Pğ–ÌÈZ
-is_eager1Z&
-	long_nameMakeIterator:MakeIterator"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHğï­±PğÛ—d"5õ‡áëƒ
-EagerExecute: IteratorGetNextHà¥­Í±Pµ½ôc":õ‡áëƒ
-"EagerLocalExecute: IteratorGetNextHğƒüÍ±P¬Ãóc"3õ‡áëƒ
-ValidateInputTypeAndPlacementH ‘ìİ±PğÅ""*õ‡áëƒ
-EagerKernelExecuteHØ»¹Ş±Pø¸¡âc"dõ‡áëƒ
-IteratorGetNextH ’¼ß±PÈ¨‘İcZ,
-	long_nameIteratorGetNext:IteratorGetNextZ
-is_eager1"Lõ‡áëƒ
-IteratorGetNextOp::DoComputeHˆŠëß±PÀÎ¤ÜcZ
-id0Z
-iter_num0"Bõ‡áëƒ
-Iterator::ModelHøÓÜá±P¸Æ©ÉcZ
-id8657191748247688084"õ‡áëƒ
-Iterator::FlatMapHƒôï±P°â™¹cZ
-id-8440946264675239424Z 
-	parent_id8657191748247688084Z%
-	long_nameIterator::Model::FlatMap"œõ‡áëƒ
-Iterator::FromTensorHØğ±Pà¥ãZ
-id6317818200525642997Z!
-	parent_id-8440946264675239424Z1
-	long_name$Iterator::Model::FlatMap::FromTensor"dõ‡áëƒ
-1InstantiatedCapturedFunction::RunWithBorrowedArgsHàü›ó±PàµÁPZ
-id-1923569142381386079"õ‡áëƒ
-Iterator::GeneratorH€òŞÒÄPà‘ÜÕPZ
-id2170431002016734389Z!
-	parent_id-8440946264675239424Z3
-	long_name&Iterator::Model::FlatMap[0]::Generator"dõ‡áëƒ
-1InstantiatedCapturedFunction::RunWithBorrowedArgsHĞÅïÓÄP°ğÔ7Z
-id-8616683818764288780"eõ‡áëƒ
-1InstantiatedCapturedFunction::RunWithBorrowedArgsHÈëÑŒÅP°š˜PZ
-id-4243644047162799053"Uõ‡áëƒ
-callHˆÙçå—PÈ‹¥ÑòÔZ
-tracing_count2Z!
-tf_function_calltraced-nonXla"Gõ‡áëƒ
-ExecutorState::ProcessHÀÆÉ½ ¹PØ¬›Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHÈ‘¸¿ ¹Pğ™„Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH¸úïÂ ¹P€œJZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHĞŒ¼ˆ¡¹P¨îZ
-id-1Z
-iter_num0"õ‡áëƒ
-StridedSliceH êŸ‰¡¹P¸ÿZY
-	long_nameLignnition_model/states_creation/atom/build_state0/strided_slice:StridedSliceZ
-is_eager0"rõ‡áëƒ
-SubHøèØ˜¡¹P¨õ‘ZF
-	long_name9ignnition_model/states_creation/atom/build_state0/sub:SubZ
-is_eager0"tõ‡áëƒ
-CastH€÷œ¡¹PˆæhZH
-	long_name;ignnition_model/states_creation/atom/build_state0/Cast:CastZ
-is_eager0"[õ‡áëƒ
-D_send_ignnition_model/states_creation/atom/build_state0/Cast_0:_SendHÀ©€¡¹P Y"5õ‡áëƒ
-ExecutorDoneCallbackH¸Õ‹Ÿ¡¹P¸®"Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHˆËü‡ë¾PàÖšZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHĞÙ‰ë¾P†•Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHÓ¡ë¾PàùJZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHğóÁáü¾Pèñ¤Z
-iter_num0Z
-id-1"Sõ‡áëƒ
-PlaceholderHğÀÏâü¾P¨¸XZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHà“åü¾PÈ½7Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHğ…±ñç¿P°ò“Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHÃ¡óç¿P°ï¦Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHè‡»÷ç¿P ‹ZZ
-id-1"#õ‡áëƒ
-tf.constantHˆÚë¸ÖÀPà¥¶"#õ‡áëƒ
-tf.constantH°ÅôÍÖÀP€´°"#õ‡áëƒ
-tf.constantHÈè˜ÙÖÀPˆÖ"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH¸Õ“âÖÀPøÉ•$"3õ‡áëƒ
-EagerExecute: RandomUniformHøĞ¦ñÖÀPˆÑ¹"8õ‡áëƒ
- EagerLocalExecute: RandomUniformH¸ñ­òÖÀPèÍ‰"4õ‡áëƒ
-ValidateInputTypeAndPlacementHˆáˆôÖÀPÈéR"*õ‡áëƒ
-EagerKernelExecuteH°ù¾õÖÀP «Õ"^õ‡áëƒ
-RandomUniformHé°øÖÀPØÆ¼Z(
-	long_nameRandomUniform:RandomUniformZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHğÁÍ‹×ÀPˆÀ¹")õ‡áëƒ
-EagerExecute: SubHĞÈä×ÀPøğë".õ‡áëƒ
-EagerLocalExecute: SubHÀ¸ù×ÀPèóĞ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¸Î¸×ÀPø±"*õ‡áëƒ
-EagerKernelExecuteH¸ıÒ×ÀP€¤ë"@õ‡áëƒ
-SubH¨‡‰×ÀPˆâZ
-	long_nameSub:SubZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH±¹—×ÀPÀÁğ")õ‡áëƒ
-EagerExecute: MulH°ª–™×ÀPè·ç".õ‡áëƒ
-EagerLocalExecute: MulH¸¤¥™×ÀPèóÓ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH ¨Ğ™×ÀP€î"*õ‡áëƒ
-EagerKernelExecuteHø¨â™×ÀP°´"@õ‡áëƒ
-MulH ß‘š×ÀP âºZ
-	long_nameMul:MulZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHè´¸×ÀPˆ["0õ‡áëƒ
-TFE_Py_FastPathExecute_CH˜ÂÒŸ×ÀPˆ³ğ")õ‡áëƒ
-EagerExecute: AddHğÁ‹¡×ÀPØè“".õ‡áëƒ
-EagerLocalExecute: AddHøÇ–¡×ÀPÈÇ„"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¸¯³¡×ÀPØ›	"*õ‡áëƒ
-EagerKernelExecuteH˜ÎÈ¡×ÀPÈøÊ"@õ‡áëƒ
-AddHø¡ö¡×ÀPàÅ…Z
-is_eager1Z
-	long_nameAdd:Add"-õ‡áëƒ
-TFE_DeleteTensorHandleH ëï£×ÀP’"-õ‡áëƒ
-TFE_DeleteTensorHandleH°µ›¤×ÀPÈĞ"-õ‡áëƒ
-TFE_DeleteTensorHandleH¨‡Ä¥×ÀPà"-õ‡áëƒ
-TFE_DeleteTensorHandleHˆüæ¥×ÀP°ç"-õ‡áëƒ
-TFE_DeleteTensorHandleH°•ö¥×ÀPÈ"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÈˆŒ»×ÀPÈ²–("1õ‡áëƒ
-EagerExecute: VarHandleOpH¸öÖÅ×ÀPğâë"6õ‡áëƒ
-EagerLocalExecute: VarHandleOpHàßõÅ×ÀPØâÄ"4õ‡áëƒ
-ValidateInputTypeAndPlacementHøÚ£à×ÀPÈÄ"*õ‡áëƒ
-EagerKernelExecuteH°•Âà×ÀPÀƒä"Wõ‡áëƒ
-VarHandleOpH¼şà×ÀPøé#Z$
-	long_nameVarHandleOp:VarHandleOpZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHèëå×ÀP˜¡‡"8õ‡áëƒ
- EagerExecute: VarIsInitializedOpHÀÖÛç×ÀPàĞ¢"=õ‡áëƒ
-%EagerLocalExecute: VarIsInitializedOpHèãîç×ÀP°¨‹"4õ‡áëƒ
-ValidateInputTypeAndPlacementHí¬è×ÀP°Ø"*õ‡áëƒ
-EagerKernelExecuteH€æ¾è×ÀPğı°"mõ‡áëƒ
-VarIsInitializedOpHÈµğè×ÀPˆÚZ2
-	long_name%VarIsInitializedOp:VarIsInitializedOpZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÀø‘î×ÀP¨Øî"0õ‡áëƒ
-EagerExecute: LogicalNotHğŠ×ï×ÀPÈ¾‡"5õ‡áëƒ
-EagerLocalExecute: LogicalNotHˆâáï×ÀPğ±ù"4õ‡áëƒ
-ValidateInputTypeAndPlacementH€À‰ğ×ÀPğœ"*õ‡áëƒ
-EagerKernelExecuteHç–ğ×ÀPĞÆ¾"Uõ‡áëƒ
-
-LogicalNotHÈ’ºğ×ÀPğœƒZ"
-	long_nameLogicalNot:LogicalNotZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHğä­ó×ÀPèáÓ",õ‡áëƒ
-EagerExecute: AssertHèï½ö×ÀPøÚ¥"1õ‡áëƒ
-EagerLocalExecute: AssertHØúÉö×ÀPĞÁ–"4õ‡áëƒ
-ValidateInputTypeAndPlacementH˜¸ôö×ÀP¿")õ‡áëƒ
-EagerKernelExecuteHÀË…÷×ÀP€„R"Hõ‡áëƒ
-AssertHÑ²÷×ÀPˆëZ
-	long_nameAssert:AssertZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHø±¼ø×ÀPĞˆ,"-õ‡áëƒ
-TFE_DeleteTensorHandleHøõ¢‡ØÀP¸½"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHğÜÜØÀPøÊ’"6õ‡áëƒ
-EagerExecute: AssignVariableOpHˆÁììØÀPĞ®·";õ‡áëƒ
-#EagerLocalExecute: AssignVariableOpH¨Ù˜íØÀPèÅƒ"4õ‡áëƒ
-ValidateInputTypeAndPlacementHÀ·ôíØÀP€¸"*õ‡áëƒ
-EagerKernelExecuteHˆì®îØÀPèÌÚ"gõ‡áëƒ
-AssignVariableOpHĞÂ±ïØÀP€Ş«Z.
-	long_name!AssignVariableOp:AssignVariableOpZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHˆÇÌöØÀP¨ò"#õ‡áëƒ
-tf.constantH‡º¼ÚÀP¨²È"#õ‡áëƒ
-tf.constantH€½íÆÚÀP‡â"#õ‡áëƒ
-tf.constantH …òÎÚÀPÈ¶İ"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH€ŠÑÕÚÀPè®%":õ‡áëƒ
-"EagerExecute: RandomStandardNormalHÀŒÍİÚÀPğ‚"?õ‡áëƒ
-'EagerLocalExecute: RandomStandardNormalHˆ˜ëİÚÀPĞáä"4õ‡áëƒ
-ValidateInputTypeAndPlacementH •İïÚÀP¸Û"*õ‡áëƒ
-EagerKernelExecuteH¨—“ğÚÀP¸Î¦	"sõ‡áëƒ
-RandomStandardNormalHà‹òğÚÀPà˜ÿZ6
-	long_name)RandomStandardNormal:RandomStandardNormalZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH˜‰¤ÿÚÀP¸Ø‚")õ‡áëƒ
-EagerExecute: MulHøÌúÛÀPÀ¯ü".õ‡áëƒ
-EagerLocalExecute: MulH•Š‚ÛÀP¨üå"4õ‡áëƒ
-ValidateInputTypeAndPlacementHĞØ²‚ÛÀPèì"*õ‡áëƒ
-EagerKernelExecuteH°úÆ‚ÛÀPĞ "@õ‡áëƒ
-MulHˆ¡ö‚ÛÀP˜”ÇZ
-	long_nameMul:MulZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHØÜ…‡ÛÀPèâ¬")õ‡áëƒ
-EagerExecute: AddHˆÕ©ˆÛÀPÈ¼Ş".õ‡áëƒ
-EagerLocalExecute: AddH€¸ˆÛÀP˜…Ì"4õ‡áëƒ
-ValidateInputTypeAndPlacementH˜œÖˆÛÀP “"*õ‡áëƒ
-EagerKernelExecuteHĞŒãˆÛÀP Ë˜"?õ‡áëƒ
-AddHøé…‰ÛÀP¨²ZZ
-	long_nameAdd:AddZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH€€Ù‹ÛÀPÀ´-"-õ‡áëƒ
-TFE_DeleteTensorHandleH ÇŸŒÛÀPğ¨"-õ‡áëƒ
-TFE_DeleteTensorHandleHĞ­ŒÛÀP˜ò"-õ‡áëƒ
-TFE_DeleteTensorHandleHØºŒÛÀP¸ó"-õ‡áëƒ
-TFE_DeleteTensorHandleH¸ ÓŒÛÀPˆ•"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÀ—İÛÀP€‚2"(õ‡áëƒ
-EagerExecute: QrHÀÏë‘ÛÀPø‡."-õ‡áëƒ
-EagerLocalExecute: QrH²ú‘ÛÀP Ÿó-"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¨ğŸÛÀPğ„"*õ‡áëƒ
-EagerKernelExecuteHĞÓ°ŸÛÀPˆŒ¦ "=õ‡áëƒ
-QrHˆ–öŸÛÀPè—ñZ
-	long_nameQr:QrZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÈßªÅÛÀP¸í×".õ‡áëƒ
-EagerExecute: DiagPartHÈëšÉÛÀPØó˜"3õ‡áëƒ
-EagerLocalExecute: DiagPartHØƒ­ÉÛÀPè•ş"4õ‡áëƒ
-ValidateInputTypeAndPlacementHèÑŒÔÛÀP˜×
-"*õ‡áëƒ
-EagerKernelExecuteH¬°ÔÛÀPˆÎí"Nõ‡áëƒ
-DiagPartH°äûÔÛÀPğ½xZ
-	long_nameDiagPart:DiagPartZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÀì¡ŞÛÀPĞû"*õ‡áëƒ
-EagerExecute: SignHğ’ûäÛÀPøŠò"/õ‡áëƒ
-EagerLocalExecute: SignHàü‘åÛÀPĞÔ"4õ‡áëƒ
-ValidateInputTypeAndPlacementHøïÈïÛÀP 
-"*õ‡áëƒ
-EagerKernelExecuteH¸×åïÛÀPøöï"Bõ‡áëƒ
-SignHÈÓªğÛÀPèœvZ
-	long_name	Sign:SignZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH ÛûöÛÀP€äÂN")õ‡áëƒ
-EagerExecute: MulH ª¯ùÛÀPğÄèJ".õ‡áëƒ
-EagerLocalExecute: MulH€ÉÄùÛÀPÀ½ÆJ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¨‹ğùÛÀP€å"*õ‡áëƒ
-EagerKernelExecuteHğ–úÛÀPØÑI"@õ‡áëƒ
-MulHø¼¸úÛÀP˜ŠœHZ
-is_eager1Z
-	long_nameMul:Mul"-õ‡áëƒ
-TFE_DeleteTensorHandleHÉîÇÜÀPˆù8"-õ‡áëƒ
-TFE_DeleteTensorHandleH°°ÔÈÜÀP¨¥"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH¨ÀëÖÜÀPˆ”¡"#õ‡áëƒ
-tf.constantH˜ŠòÜÀP Ë†"0õ‡áëƒ
-TFE_Py_ExecuteCancelableHØÅàİÀP¸Ã¦&"/õ‡áëƒ
-EagerExecute: TransposeH°Å“…İÀPı±""4õ‡áëƒ
-EagerLocalExecute: TransposeH«»…İÀPèÏÿ!"4õ‡áëƒ
-ValidateInputTypeAndPlacementHàš˜İÀPø“"*õ‡áëƒ
-EagerKernelExecuteHĞöÑ˜İÀP°ùÏ"Rõ‡áëƒ
-	TransposeH¨£ü™İÀPÀÄ×Z 
-	long_nameTranspose:TransposeZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHˆ‰ñªİÀPğ4"-õ‡áëƒ
-TFE_DeleteTensorHandleHÀÁà¬İÀP˜È"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHà”±İÀP¸„›"#õ‡áëƒ
-tf.constantHĞ¤†ÈİÀP¸öø"0õ‡áëƒ
-TFE_Py_ExecuteCancelableHğşõÔİÀP˜ßû"-õ‡áëƒ
-EagerExecute: ReshapeH ×ô×İÀPèÕ"2õ‡áëƒ
-EagerLocalExecute: ReshapeHØ‹•ØİÀP°ëª"4õ‡áëƒ
-ValidateInputTypeAndPlacementHè»ûãİÀP’"*õ‡áëƒ
-EagerKernelExecuteHè¨«äİÀP¨ºş"Kõ‡áëƒ
-ReshapeHÀ•—åİÀP £RZ
-	long_nameReshape:ReshapeZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH€ÒâèİÀP¨È)"#õ‡áëƒ
-tf.constantH°°ÍñİÀP¸›Ã"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÀ«üİÀPÈ§Ó")õ‡áëƒ
-EagerExecute: MulHÀà­ÿİÀPè™î".õ‡áëƒ
-EagerLocalExecute: MulHğÿÇÿİÀP€øÌ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH÷şÿİÀP°É"*õ‡áëƒ
-EagerKernelExecuteHĞÏ €ŞÀPÀôå"@õ‡áëƒ
-MulH¸êí€ŞÀPè´ëZ
-	long_nameMul:MulZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHøÚû„ŞÀPğ¢"-õ‡áëƒ
-TFE_DeleteTensorHandleHàä¤…ŞÀPÀü"-õ‡áëƒ
-TFE_DeleteTensorHandleHøÏÒ…ŞÀPÀí"-õ‡áëƒ
-TFE_DeleteTensorHandleH€üú…ŞÀP¸ÿ"-õ‡áëƒ
-TFE_DeleteTensorHandleHğè†ŞÀP ‡"-õ‡áëƒ
-TFE_DeleteTensorHandleHØº¢†ŞÀP¨¨
-"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHÀì±¦ŞÀPÈ¢û"1õ‡áëƒ
-EagerExecute: VarHandleOpHàéÎ®ŞÀP¨Å€"6õ‡áëƒ
-EagerLocalExecute: VarHandleOpHˆëå®ŞÀPÈÄá"4õ‡áëƒ
-ValidateInputTypeAndPlacementH  »ŞÀP°Ò	"*õ‡áëƒ
-EagerKernelExecuteHĞ¹»ŞÀP¨é›"Wõ‡áëƒ
-VarHandleOpH€óØ»ŞÀP¸çZ$
-	long_nameVarHandleOp:VarHandleOpZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHĞşú¾ŞÀP¸öû"8õ‡áëƒ
- EagerExecute: VarIsInitializedOpH°‘ÁŞÀP°‰Å"=õ‡áëƒ
-%EagerLocalExecute: VarIsInitializedOpHè„šÁŞÀPà©µ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¨Ô¾ÁŞÀPø½"*õ‡áëƒ
-EagerKernelExecuteH°ËÎÁŞÀPˆ¶õ"mõ‡áëƒ
-VarIsInitializedOpHØ–÷ÁŞÀPàÓªZ2
-	long_name%VarIsInitializedOp:VarIsInitializedOpZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHĞı’ÅŞÀP€•ğ"0õ‡áëƒ
-EagerExecute: LogicalNotH¸á›ÆŞÀP€œÇ"5õ‡áëƒ
-EagerLocalExecute: LogicalNotHØå¤ÆŞÀP âº"4õ‡áëƒ
-ValidateInputTypeAndPlacementHÀŸ¾ÆŞÀPÀ²"*õ‡áëƒ
-EagerKernelExecuteH°ªÊÆŞÀPğû"Tõ‡áëƒ
-
-LogicalNotHà·êÆŞÀPĞœOZ"
-	long_nameLogicalNot:LogicalNotZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHàøøÈŞÀP€’î",õ‡áëƒ
-EagerExecute: AssertH¨ëÂËŞÀP˜×‡"0õ‡áëƒ
-EagerLocalExecute: AssertHĞŠĞËŞÀPÈúv"4õ‡áëƒ
-ValidateInputTypeAndPlacementHà‡ëËŞÀP¨±")õ‡áëƒ
-EagerKernelExecuteHØ›ÌŞÀPğñ="Hõ‡áëƒ
-AssertH°æ¤ÌŞÀPˆZ
-	long_nameAssert:AssertZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHØ² ÍŞÀPå""-õ‡áëƒ
-TFE_DeleteTensorHandleH¨¤ƒÚŞÀP ¹!"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH¨ÄİğŞÀP ®à"6õ‡áëƒ
-EagerExecute: AssignVariableOpH ¹›õŞÀPÀèæ";õ‡áëƒ
-#EagerLocalExecute: AssignVariableOpHÈ´´õŞÀPàêÆ"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¸¬ğõŞÀP§"*õ‡áëƒ
-EagerKernelExecuteH€¦”öŞÀP€à×"gõ‡áëƒ
-AssignVariableOpHğáãöŞÀP¨ùéZ.
-	long_name!AssignVariableOp:AssignVariableOpZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleHˆõËûŞÀPĞß"#õ‡áëƒ
-tf.constantHÀ–ÇÁßÀPØ”£"#õ‡áëƒ
-tf.constantH˜”ŒÛßÀPÈÌí"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHĞØ¬õßÀP€ÜÏ"*õ‡áëƒ
-EagerExecute: FillH¨ïûßÀPĞ¢©"/õ‡áëƒ
-EagerLocalExecute: FillH¨’—üßÀPà€û"4õ‡áëƒ
-ValidateInputTypeAndPlacementH°¢òüßÀPˆĞ"*õ‡áëƒ
-EagerKernelExecuteH€ş¬ıßÀPø‹Î
-"Cõ‡áëƒ
-FillH¸ ĞşßÀP€Û¯Z
-	long_name	Fill:FillZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH¨ÎÖŠàÀP°á"-õ‡áëƒ
-TFE_DeleteTensorHandleHà«àÀPèú-"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHø–…ŸàÀPĞÂ§"1õ‡áëƒ
-EagerExecute: VarHandleOpHÈâÙ¦àÀPÀíí"6õ‡áëƒ
-EagerLocalExecute: VarHandleOpHÈšñ¦àÀPĞ›Ï"4õ‡áëƒ
-ValidateInputTypeAndPlacementH€Æí³àÀPĞñ	"*õ‡áëƒ
-EagerKernelExecuteHèŞ‘´àÀPÈˆœ"Wõ‡áëƒ
-VarHandleOpH¨ïÊ´àÀP éZ
-is_eager1Z$
-	long_nameVarHandleOp:VarHandleOp"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH°Ó¸àÀPĞ¯"8õ‡áëƒ
- EagerExecute: VarIsInitializedOpHàì—ºàÀPğÓ"=õ‡áëƒ
-%EagerLocalExecute: VarIsInitializedOpHà¹¨ºàÀP Í¾"4õ‡áëƒ
-ValidateInputTypeAndPlacementHĞüËºàÀPØ¤"*õ‡áëƒ
-EagerKernelExecuteH ßÚºàÀPÈÊƒ"mõ‡áëƒ
-VarIsInitializedOpHø¦ÿºàÀPğâ¿Z
-is_eager1Z2
-	long_name%VarIsInitializedOp:VarIsInitializedOp"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH¨„¦¾àÀP˜ÌÛ"0õ‡áëƒ
-EagerExecute: LogicalNotH˜ª¿àÀP¨›µ"5õ‡áëƒ
-EagerLocalExecute: LogicalNotH€‚¶¿àÀP¸™¦"4õ‡áëƒ
-ValidateInputTypeAndPlacementHğëÌ¿àÀPÀµ")õ‡áëƒ
-EagerKernelExecuteH¸³×¿àÀPè‡}"Tõ‡áëƒ
-
-LogicalNotHÀ€õ¿àÀPêJZ"
-	long_nameLogicalNot:LogicalNotZ
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHø—ïÁàÀPğ£Î"+õ‡áëƒ
-EagerExecute: AssertHğÂ¡ÄàÀP€÷"0õ‡áëƒ
-EagerLocalExecute: AssertHøÈ¬ÄàÀPõp"4õ‡áëƒ
-ValidateInputTypeAndPlacementH°‰ÉÄàÀP€î")õ‡áëƒ
-EagerKernelExecuteHøÄ×ÄàÀPÈ¨>"Hõ‡áëƒ
-AssertH¨½şÄàÀP°ØZ
-	long_nameAssert:AssertZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH ¢÷ÅàÀPˆ»#"-õ‡áëƒ
-TFE_DeleteTensorHandleHíÒàÀPè°"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH˜”åäàÀPˆõË"6õ‡áëƒ
-EagerExecute: AssignVariableOpHØ‰›éàÀP¸Ğá";õ‡áëƒ
-#EagerLocalExecute: AssignVariableOpHàë±éàÀPğÁÄ"4õ‡áëƒ
-ValidateInputTypeAndPlacementHÈÅêéàÀP ø"*õ‡áëƒ
-EagerKernelExecuteH˜àêàÀPèíÕ"gõ‡áëƒ
-AssignVariableOpHˆŠæêàÀPø©ßZ.
-	long_name!AssignVariableOp:AssignVariableOpZ
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH˜©½ïàÀP›"Gõ‡áëƒ
-ExecutorState::ProcessH ÷şÃãÁPè²°Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderH¨³òÅãÁP¸À™Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHØÆ„ÊãÁPÈ¹bZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHˆéçğÁPÀÌœZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHĞªÕèğÁPğî>Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHøšÂêğÁPÄ-Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH¨‡ÑÕˆÂPˆü«Z
-iter_num0Z
-id-1"Sõ‡áëƒ
-PlaceholderH¨¶èÖˆÂP°åVZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHò¤ÙˆÂPèÓ:Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHè˜ò·ÃPÙ”Z
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderH˜Ÿ»¹ÃPÈ¯Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHğ¯’½ÃPŞNZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHø†ìí›ÃPÈä¡Z
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHÈºİî›ÃP°DZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHâÂğ›ÃPĞê5Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHØ£Óı²ÃP˜Ñ€Z
-iter_num0Z
-id-1"Sõ‡áëƒ
-PlaceholderHØüÜş²ÃP »JZ
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHğÕŠ³ÃPğ4Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHĞàÏ°ÄPèå¢Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHĞˆ“‘°ÄPø–’Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHÀ‘ê”°ÄPè KZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHÈ£¶Ñ¾ÄPĞÌ˜Z
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderHğ²ïÒ¾ÄPÀ…Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"6õ‡áëƒ
-ExecutorDoneCallbackHïƒ×¾ÄP‘©Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH¸°úõÚÄPØ‰€Z
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHğÒ÷ÚÄPØ®VZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH Š§úÚÄP¦7Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH˜¼úŒØÅPàŞÁZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHèéêØÅP°½Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackH ÏÅ’ØÅPè—NZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHà‹íåÅPèÃàZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderH˜ÓûíåÅPà”BZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHğó¦ğåÅPˆ‘1Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH˜Œ¼±şÅPø£ØZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHĞ¢ã²şÅP¸÷]Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHèŒµµşÅP‹@Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHà¶Û±ƒÇPĞßıZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHğ¦¡³ƒÇPè¿”Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHøÚç¶ƒÇPğĞHZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHÈñÜ‘ÇP°†ÃZ
-iter_num0Z
-id-1"Sõ‡áëƒ
-PlaceholderH€•Ö‚‘ÇPĞ±HZ
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHÀ¸Ù„‘ÇP˜è.Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH¢ÔŸ¯ÇPÈã­Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderH°î­§¯ÇPˆ–ÖZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHø¿ü«¯ÇPÉUZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHøæÏ»·ÍP€ôñZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHÀÄ£½·ÍPØ€Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH”ÙÀ·ÍPà‘CZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH•øû·ÍPÀ½Z
-id-1Z
-iter_num0"õ‡áëƒ
-StridedSliceH˜õâü·ÍPğšÎZ
-is_eager0ZY
-	long_nameLignnition_model/states_creation/atom/build_state0/strided_slice:StridedSlice"rõ‡áëƒ
-SubH¨´Ù¸ÍPĞŸZF
-	long_name9ignnition_model/states_creation/atom/build_state0/sub:SubZ
-is_eager0"tõ‡áëƒ
-CastHĞÏ‹„¸ÍPğ‘]ZH
-	long_name;ignnition_model/states_creation/atom/build_state0/Cast:CastZ
-is_eager0"[õ‡áëƒ
-D_send_ignnition_model/states_creation/atom/build_state0/Cast_0:_SendHÈ½ş…¸ÍP˜Û\"5õ‡áëƒ
-ExecutorDoneCallbackHÀò†‡¸ÍPîZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHğ²âÆÎPˆ—šZ
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderHˆŸàÆÎPĞÓZ
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackH¸šú”ÆÎP°ëTZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH°Ù¶ÙÎPø²ĞZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderH€š÷‘ÙÎPĞÚdZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH¸Öµ•ÙÎPš;Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHØŒ¡èûÎPÒÀZ
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderHè×œêûÎPø±‰Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHÈ§ìíûÎPàóLZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHÀİÉÍ‘ĞPØî…Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderH˜ª“Ï‘ĞPè¹–Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH¨çãÒ‘ĞPÿCZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHØ¯©•¤ĞPĞÙêZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHˆ¢Ï–¤ĞPğØZ 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH°é„¡¤ĞP ö`Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHğèú÷ÂĞPˆßˆZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHà˜ËùÂĞP¸€[Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHİ¦üÂĞP¨úBZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHàøÆçÂÑPìáZ
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderH€õ¢éÂÑP˜­•Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH¸Ü¦íÂÑP˜üQZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH¸ ÂçÑÑPğÎ“Z
-iter_num0Z
-id-1"Tõ‡áëƒ
-PlaceholderHÀ¨èÑÑP¸œ¥Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHÃ“ëÑÑPĞ*Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHØ¾ÌúêÑPÈ§ÜZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHğŞüêÑPø»\Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackH¸××şêÑP¨¤5Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH°‹ÀèéÒPˆö¤Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHøá¿êéÒPÈÜ€Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackH¸şèîéÒP ¬OZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHğ£…ÅøÒP°‚îZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderH˜ÄåÅøÒPÀ”‹Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackH¨“³ÈøÒP *Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHàÓğé“ÓPÈ§ÙZ
-iter_num0Z
-id-1"Sõ‡áëƒ
-PlaceholderHèŠ¼ë“ÓPèşZ
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackH¸Šâî“ÓPÀéEZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH€ø¸Í¤ÔP‘¬Z
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHˆ¦‡Ï¤ÔPĞ—¤Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHàñôÒ¤ÔP ÊEZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH˜ˆ­Î²ÔPØºÉZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderHø¿Ï²ÔP°°>Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHà´·Ñ²ÔPØ»(Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHèÌÓ®ÉÔPøØÕZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderH˜˜†°ÉÔPØŸ[Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHÈŒ·»ÉÔPØÃOZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHèŸ®¿ÔÕPÀ¤ÊZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderHˆğîÀÔÕP¨Š‘Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHØ¨ÿÄÔÕP˜ˆNZ
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessH€Äé·áÕPàâŸZ
-id-1Z
-iter_num0"Sõ‡áëƒ
-PlaceholderH˜«Â¸áÕPà¬:Z
-is_eager0Z 
-	long_nameinput_3:Placeholder"5õ‡áëƒ
-ExecutorDoneCallbackHè™ÇºáÕPàÖ,Z
-id-1"Gõ‡áëƒ
-ExecutorState::ProcessHĞˆäùøÕP¸µÛZ
-id-1Z
-iter_num0"Tõ‡áëƒ
-PlaceholderH¤ÀûøÕPÈÄ…Z 
-	long_nameinput_3:PlaceholderZ
-is_eager0"5õ‡áëƒ
-ExecutorDoneCallbackHøñêùÕP¨<Z
-id-1"2õ‡áëƒ
-TFE_Py_ExecuteCancelableHĞšĞºÑ×PàÄğÌ¸"=õ‡áëƒ
-#EagerExecute: __inference_call_1815Hğ•”ÒÑ×Pàı«³¸"Bõ‡áëƒ
-(EagerLocalExecute: __inference_call_1815HĞ™¯ÓÑ×PÀ¹ç±¸"7õ‡áëƒ
-EagerCopyToDeviceAndAddCacheKeyH‚ŸÔÑ×P˜ß	"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHğ†‡ØÑ×P°«"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyH¸ùÓÙÑ×PøÃ"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHØğŠÚÑ×P°ç"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHøù»ÚÑ×PÀ‚"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHˆ£òÚÑ×PÀ£	"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHàÌ ÛÑ×PØ•"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyH€ĞÓÛÑ×Pèş"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHÀï‡ÜÑ×Pˆ"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHè´²ÜÑ×P¨¨
-"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyH°“ßÜÑ×P°ç"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyH Ö‚İÑ×PÈÓ"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyH¨ù­İÑ×P¸ö
-"Dõ‡áëƒ
--TensorHandle::GetResourceHandleInfo WaitReadyHˆÊÜİÑ×PØ¤"5õ‡áëƒ
-ValidateInputTypeAndPlacementH‘Êß¿ÚP€Ş®"Jõ‡áëƒ
-EagerKernelExecuteHğúºã¿ÚP¸—ôŸJZ
-	step_name0Z
-group_id0"Oõ‡áëƒ
-FunctionRunH˜áËè¿ÚPäÃ—#Z
-id-4338561866754559737Z
-group_id0"Võ‡áëƒ
-ExecutorState::ProcessHÈó†ÃÚPğÿÄ
-Z
-id-1Z
-iter_num0Z
-group_id0"Võ‡áëƒ
-ExecutorState::ProcessH·¹ÃÚP ÉéZ
-id-1Z
-iter_num0Z
-group_id0"æõ‡áëƒ
-¾_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/sub/x_0:_SendHÀÿìÃÚP¨œ‹Z
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH˜º¼’ÃÚP î9Z
-group_id0Z
-id-1Z
-iter_num0"¸õ‡áëƒ
-‘_send_ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2/axis_0:_SendHÀİ’ÃÚP˜¼Z
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH €†“ÃÚPÀ™6Z
-id-1Z
-iter_num0Z
-group_id0"ïõ‡áëƒ
-È_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/split/split_dim_0:_SendH€Š¢“ÃÚP İZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHàìÊ“ÃÚPØ2Z
-iter_num0Z
-group_id0Z
-id-1"Œõ‡áëƒ
-f_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/pivot_f/_10_0:_SendH€¯é“ÃÚP€ĞZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH”Œ”ÃÚPĞü/Z
-id-1Z
-iter_num0Z
-group_id0"çõ‡áëƒ
-À_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/Const_1_0:_SendH€æª”ÃÚPĞèZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHàæÉ”ÃÚPøÎ,Z
-iter_num0Z
-group_id0Z
-id-1"Œõ‡áëƒ
-f_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/pivot_t/_11_0:_SendHè¼ä”ÃÚP˜ÎZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHÈ±‡•ÃÚP¨†?Z
-id-1Z
-iter_num0Z
-group_id0"qõ‡áëƒ
-K_send_ignnition_model/states_creation/atom/build_state0/zeros/Const_0:_SendHØ¢¦•ÃÚPúZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH€ßÓ•ÃÚPˆ-Z
-iter_num0Z
-group_id0Z
-id-1"mõ‡áëƒ
-G_send_ignnition_model/readout_predictions/pooling/Reshape/shape_0:_SendHàåğ•ÃÚP ûZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHĞº–ÃÚPĞ…-Z
-id-1Z
-iter_num0Z
-group_id0"jõ‡áëƒ
-D_send_ignnition_model/states_creation/atom/build_state0/Cast_0:_SendHÀ’«–ÃÚP€ÜZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHøÒÇ–ÃÚPÈÌ2Z
-group_id0Z
-id-1Z
-iter_num0"õ‡áëƒ
-x_send_Func/ignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/cond/else/_1/output/_136_0:_SendH¨æå–ÃÚPÀZ
-group_id0"Áõ‡áëƒ
-š_send_ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat/axis_0:_SendHøë’—ÃÚP˜­Z
-group_id0"Dõ‡áëƒ
-ExecutorDoneCallbackHÈğé—ÃÚPğ¾NZ
-id-1Z
-group_id0"Võ‡áëƒ
-ExecutorState::ProcessH°ø–€ÆÚPˆÎÛZ
-id-1Z
-iter_num0Z
-group_id0"Võ‡áëƒ
-ExecutorState::ProcessHÂñ€ÆÚP°€ËZ
-id-1Z
-iter_num0Z
-group_id0"åõ‡áëƒ
-¾_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/sub/x_0:_SendHÈ°ÒÆÚPà…GZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH¨Ğ‚ÆÚPà¸6Z
-id-1Z
-iter_num0Z
-group_id0"¸õ‡áëƒ
-‘_send_ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2/axis_0:_SendH¨´í‚ÆÚPÀ‚Z
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHà¾›ƒÆÚP¸à;Z
-id-1Z
-iter_num0Z
-group_id0"Œõ‡áëƒ
-f_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/pivot_f/_10_0:_SendHÀÂ¹ƒÆÚPà•Z
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH¨½çƒÆÚP©6Z
-id-1Z
-iter_num0Z
-group_id0"jõ‡áëƒ
-D_send_ignnition_model/states_creation/atom/build_state0/Cast_0:_SendH˜Œ‡„ÆÚP€ÇZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHĞ´«„ÆÚPĞä7Z
-group_id0Z
-id-1Z
-iter_num0"ïõ‡áëƒ
-È_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/split/split_dim_0:_SendHÀ€Ì„ÆÚP¸áZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHĞâï„ÆÚPÀ¢3Z
-id-1Z
-iter_num0Z
-group_id0"Áõ‡áëƒ
-š_send_ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat/axis_0:_SendH˜î…ÆÚPğûZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHØÆ¯…ÆÚPèÖ9Z
-id-1Z
-iter_num0Z
-group_id0"çõ‡áëƒ
-À_send_ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/Const_1_0:_SendHğêÊ…ÆÚPàZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessHØîõ…ÆÚP°Â8Z
-group_id0Z
-id-1Z
-iter_num0"qõ‡áëƒ
-K_send_ignnition_model/states_creation/atom/build_state0/zeros/Const_0:_SendHà¸”†ÆÚPˆåZ
-group_id0"Uõ‡áëƒ
-ExecutorState::ProcessH®¼†ÆÚP¸û2Z
-iter_num0Z
-group_id0Z
-id-1"õ‡áëƒ
-x_send_Func/ignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/cond/else/_1/output/_136_0:_SendHøŞØ†ÆÚP°·Z
-group_id0"mõ‡áëƒ
-G_send_ignnition_model/readout_predictions/pooling/Reshape/shape_0:_SendHøËˆ‡ÆÚPÀ—Z
-group_id0"Dõ‡áëƒ
-ExecutorDoneCallbackH€ÈÀ‡ÆÚPˆ¯'Z
-id-1Z
-group_id0"$õ‡áëƒ
-tf.constantHèŞµÈÛPà‡Å¯"-õ‡áëƒ
-TFE_DeleteTensorHandleH ¹©İËÛP˜Û\"0õ‡áëƒ
-TFE_Py_FastPathExecute_CH°€çÌÛP¸êÓf"-õ‡áëƒ
-TFE_DeleteTensorHandleHÎ×–ÌÛPğ¢"-õ‡áëƒ
-TFE_DeleteTensorHandleH ù’£ÌÛPÈâ"0õ‡áëƒ
-EagerExecute: LogicalAndHĞ©ŒºÌÛP˜µ¸,"5õ‡áëƒ
-EagerLocalExecute: LogicalAndHĞ…•»ÌÛPÀÌ¡+"4õ‡áëƒ
-ValidateInputTypeAndPlacementH¸Ÿ¦İÌÛPø˜>"9õ‡áëƒ
-EagerKernelExecuteH°Ú¬ŞÌÛP°ÛîZ
-group_id0"dõ‡áëƒ
-
-LogicalAndH ¦ÇàÌÛPØ£¤Z"
-	long_nameLogicalAnd:LogicalAndZ
-group_id0Z
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHğ«óŠÍÛPø€ş".õ‡áëƒ
-EagerExecute: IdentityHˆ¨°’ÍÛPàİĞ"3õ‡áëƒ
-EagerLocalExecute: IdentityHˆİÈ’ÍÛPØ™°"4õ‡áëƒ
-ValidateInputTypeAndPlacementHÀ»·ÍÛP€Í"9õ‡áëƒ
-EagerKernelExecuteHÀ±äÍÛPÈÃZ
-group_id0"]õ‡áëƒ
-IdentityHÑ²ŸÍÛP ë:Z
-	long_nameIdentity:IdentityZ
-group_id0Z
-is_eager1"0õ‡áëƒ
-TFE_Py_FastPathExecute_CHˆÁ¿¦ÍÛP ò‚"#õ‡áëƒ
-tf.constantHøÖíÑÍÛPØ¸‹
-"-õ‡áëƒ
-TFE_DeleteTensorHandleHĞÛ¹ÚÍÛP˜¤"#õ‡áëƒ
-tf.constantHğ¯–îÍÛP¨ë¸"-õ‡áëƒ
-TFE_DeleteTensorHandleHÈŞàòÍÛP°º"#õ‡áëƒ
-tf.constantHğï¡ÿÍÛP ¨î"-õ‡áëƒ
-TFE_DeleteTensorHandleHÄ®ƒÎÛPğ„"0õ‡áëƒ
-TFE_Py_ExecuteCancelableHàü¸‰ÎÛP¸ÂÓ%"2õ‡áëƒ
-EagerExecute: WriteSummaryH¨¡™ÎÛP˜³°!"7õ‡áëƒ
-EagerLocalExecute: WriteSummaryHÀ¿¶ÎÛP¸ÇŠ!"4õ‡áëƒ
-ValidateInputTypeAndPlacementHÈ©Ù–ÎÛPˆå"9õ‡áëƒ
-EagerKernelExecuteH¨î‹—ÎÛPŸZ
-group_id0"jõ‡áëƒ
-WriteSummaryH€´„˜ÎÛP€çïZ&
-	long_nameWriteSummary:WriteSummaryZ
-group_id0Z
-is_eager1"-õ‡áëƒ
-TFE_DeleteTensorHandleH Ä¾°ÎÛP¨îF"-õ‡áëƒ
-TFE_DeleteTensorHandleHˆ‚ª±ÎÛP¨´"-õ‡áëƒ
-TFE_DeleteTensorHandleHÈ„¾±ÎÛPğ¨"#õ‡áëƒ
-tf.constantH¸×£¶ÎÛP İ€"-õ‡áëƒ
-TFE_DeleteTensorHandleHøÜ¤¼ÎÛPèà"-õ‡áëƒ
-TFE_DeleteTensorHandleH˜Æ­¿ÎÛP¸ù	"-õ‡áëƒ
-TFE_DeleteTensorHandleH¨ïã¿ÎÛP ˜,"-õ‡áëƒ
-TFE_DeleteTensorHandleHòšÊÎÛP€ù+"-õ‡áëƒ
-TFE_DeleteTensorHandleH¨úåËÎÛPÀ¸"Xõ†®÷¥ExecutorState::ProcessHÀüØ÷±Pğ½3Z
-iter_num0Z
-id-1923569142381386079"fõ†®÷¥GeneratorDatasetHˆ°ºù±PØÈÖZ.
-	long_name!GeneratorDataset:GeneratorDatasetZ
-is_eager0"Fõ†®÷¥ExecutorDoneCallbackH¨´§¬²P€‡QZ
-id-1923569142381386079"Xõ†®÷¥ExecutorState::ProcessH¨ÛëØÄP¸…ÿ+Z
-id-8616683818764288780Z
-iter_num0"Hõ†®÷¥PyFuncHèÅ„ÚÄP¸“­)Z
-	long_namePyFunc:PyFuncZ
-is_eager0"Fõ†®÷¥ExecutorDoneCallbackH®É…ÅPĞü/Z
-id-8616683818764288780"Yõ†®÷¥ExecutorState::ProcessH˜ËÛÅP ¶œŒPZ
-iter_num0Z
-id-4243644047162799053"Iõ†®÷¥PyFuncHÈ•»ÅPàô´„PZ
-	long_namePyFunc:PyFuncZ
-is_eager0"Hõ†®÷¥ExecutorDoneCallbackH€Ûó•P€¡¬‚Z
-id-4243644047162799053"hõ†®÷¥ExecutorState::ProcessH°âİ½ËÚPèìê	Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"hõ†®÷¥ExecutorState::ProcessHÀ©ìÇËÚPğºóZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"¦õ†®÷¥ReadVariableOpHğ€ÈËÚPà¸°Z
-is_eager0Zß
-	long_nameÑignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHˆåñÊËÚP¨Å*Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¤õ†®÷¥ReadVariableOpHÈä†ËËÚP¸êZŞ
-	long_nameĞignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHğÄ¨ËËÚPè‰)Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¤õ†®÷¥ReadVariableOpHà±¾ËËÚPÀšZŞ
-	long_nameĞignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH€ôÜËËÚPøà&Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¤õ†®÷¥ReadVariableOpHğéïËËÚPĞëZŞ
-	long_nameĞignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH©ÌËÚPĞ”(Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¤õ†®÷¥ReadVariableOpHøî¤ÌËÚP ûZ
-is_eager0ZŞ
-	long_nameĞignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessH¸ĞÃÌËÚP¸¥%Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"£õ†®÷¥ReadVariableOpHÀ¾ÖÌËÚPĞëZ
-is_eager0Zİ
-	long_nameÏignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHĞ²ôÌËÚPˆÀKZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"§õ†®÷¥ReadVariableOpH˜ÜˆÍËÚPàÍ/Zá
-	long_nameÓignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH¸¯ËÍËÚPØÇ$Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"¦õ†®÷¥ReadVariableOpHØ˜İÍËÚPğŠZà
-	long_nameÒignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHøÚûÍËÚPÈä*Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHˆ”ÎËÚPĞëZ
-is_eager0Zà
-	long_nameÒignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessH€İ±ÎËÚP˜‰$Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"¦õ†®÷¥ReadVariableOpH ÌÁÎËÚPˆƒZà
-	long_nameÒignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH¨“áÎËÚPˆ¾"Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¦õ†®÷¥ReadVariableOpHàúğÎËÚP¸óZ
-is_eager0Zà
-	long_nameÒignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHø•ÏËÚPàô"Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpHˆ´ŸÏËÚP¸óZß
-	long_nameÑignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/MatMul_1/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH˜¨½ÏËÚPèô£Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"õ†®÷¥ReadVariableOpHÂÑÏËÚP˜ô*ZØ
-	long_nameÊignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"ˆõ†®÷¥UnpackH¸ÈĞËÚP˜ ½ZÉ
-	long_name»ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH°àïÓËÚP˜Ş[Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"õ†®÷¥ReadVariableOpH ÙÔËÚPˆñZ×
-	long_nameÉignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"†õ†®÷¥UnpackHø©£ÔËÚPøşZ
-is_eager0ZÈ
-	long_nameºignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHøÖÔËÚPØÏKZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"õ†®÷¥ReadVariableOpHèŒæÔËÚPØ’Z
-is_eager0Z×
-	long_nameÉignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0"†õ†®÷¥UnpackH¨ıÿÔËÚPğæZ
-is_eager0ZÈ
-	long_nameºignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHø…¬ÕËÚPˆÀKZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"õ†®÷¥ReadVariableOpHàÚ¼ÕËÚPø±Z×
-	long_nameÉignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"†õ†®÷¥UnpackH°œÖÕËÚPøZÈ
-	long_nameºignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH¨îÖËÚPøîKZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"õ†®÷¥ReadVariableOpHˆœ’ÖËÚP˜ÑZ×
-	long_nameÉignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"†õ†®÷¥UnpackHøü«ÖËÚPÈ ZÈ
-	long_nameºignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH ¼ØÖËÚP¸°KZ
-group_id0Z
-id-4338561866754559737Z
-iter_num0"œõ†®÷¥ReadVariableOpH˜âèÖËÚP¨ŸZÖ
-	long_nameÈignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"…õ†®÷¥UnpackH€™ƒ×ËÚPà˜ZÇ
-	long_name¹ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/unstack:UnpackZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHèœ®×ËÚP°Í^Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¥õ†®÷¥ReadVariableOpH¸äÅ×ËÚPĞÏ>Zß
-	long_nameÑignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHø©—ØËÚPâ#Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpHØÔ¨ØËÚP¨¥Zß
-	long_nameÑignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHÈ¬ÅØËÚPˆ»#Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpHğ¿ÖØËÚPÀZß
-	long_nameÑignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH€·óØËÚPØÊ#Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¥õ†®÷¥ReadVariableOpHÒ„ÙËÚPğZß
-	long_nameÑignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH˜Ÿ¢ÙËÚPèŒ(Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"¥õ†®÷¥ReadVariableOpHğ–·ÙËÚPÀZß
-	long_nameÑignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHàëÔÙËÚPå"Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¥õ†®÷¥ReadVariableOpHèßåÙËÚPÀZß
-	long_nameÑignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH  ‚ÚËÚP¿ÃZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"…õ†®÷¥PackHØæœÚËÚP ­ûZI
-	long_name<ignnition_model/states_creation/atom/build_state0/stack:PackZ
-group_id0Z
-is_eager0"…õ†®÷¥FillHøªºèËÚPÈ²‹ZI
-	long_name<ignnition_model/states_creation/atom/build_state0/zeros:FillZ
-group_id0Z
-is_eager0"õ†®÷¥ConcatV2H°ööêËÚPø¬ØZ
-is_eager0ZN
-	long_nameAignnition_model/states_creation/atom/build_state0/concat:ConcatV2Z
-group_id0"iõ†®÷¥ExecutorState::ProcessHàÛïËÚPàÇâ¤4Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"•õ†®÷¥_FusedMatMulHğûúïËÚPø·ãí3ZÏ
-	long_nameÁignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"†õ†®÷¥SplitVH€·éæÿÚPèµ½,ZÇ
-	long_name¹ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHĞÀÛ•€ÛPğòìZ
-group_id0Z
-id-4338561866754559737Z
-iter_num0"Öõ†®÷¥GatherV2H Õ€—€ÛPÀªÅZ•
-	long_name‡ignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0Z
-is_eager0"ßõ†®÷¥ConcatV2HĞÖŒŸ€ÛP ÷°Z
-is_eager0Z
-	long_nameignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0"hõ†®÷¥ExecutorState::ProcessH ½ä¢€ÛP€ö£Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"Îõ†®÷¥ReadVariableOpHà…µ£€ÛP°˜ÀZ‡
-	long_namezignnition_model/readout_predictions/neural_network/sequential_1/layer_1_Dense_readout/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH¸òš¦€ÛPÀënZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"Îõ†®÷¥ReadVariableOpHà´Æ¦€ÛP€Ò8Zˆ
-	long_name{ignnition_model/readout_predictions/neural_network/sequential_1/layer_2_Dense_readout/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH ñš§€ÛPğ¶’Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHğÎì­€ÛP€Ø6Z
-is_eager0Zà
-	long_nameÒignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessH¨öº®€ÛPÀõAZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHà¡Ş®€ÛPˆñZà
-	long_nameÒignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHØä¯€ÛPèß6Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpH€Ñ¬¯€ÛP€ÙZà
-	long_nameÒignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHØŒÕ¯€ÛPĞØ;Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHØ—û¯€ÛPÈ¾Zà
-	long_nameÒignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHÀ¹œ°€ÛPÀ™6Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¦õ†®÷¥ReadVariableOpHàş¹°€ÛPÈµZà
-	long_nameÒignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHÈ—Ş°€ÛP˜Ç9Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHğƒü°€ÛPˆ÷Zà
-	long_nameÒignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHØ“£±€ÛP˜‚PZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Íõ†®÷¥ReadVariableOpHğ®Á±€ÛP¸–*Z
-is_eager0Z‡
-	long_namezignnition_model/readout_predictions/neural_network/sequential_1/layer_2_Dense_readout/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessH€±„²€ÛPØ±UZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Îõ†®÷¥ReadVariableOpHˆû¢²€ÛPÊ+Z
-is_eager0Zˆ
-	long_name{ignnition_model/readout_predictions/neural_network/sequential_1/layer_0_Dense_readout/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHˆ£é²€ÛPĞ·FZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"Íõ†®÷¥ReadVariableOpHè²ƒ³€ÛP¨Ú#Z
-is_eager0Z‡
-	long_namezignnition_model/readout_predictions/neural_network/sequential_1/layer_0_Dense_readout/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHèû¾³€ÛPˆégZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Îõ†®÷¥ReadVariableOpHˆˆï³€ÛP¸Š.Zˆ
-	long_name{ignnition_model/readout_predictions/neural_network/sequential_1/layer_1_Dense_readout/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH°öµ´€ÛPàöKZ
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¦õ†®÷¥ReadVariableOpHˆÄØ´€ÛP°Š!Zà
-	long_nameÒignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH˜ğµ€ÛP¯4Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHğÒ©µ€ÛP€ÖZ
-is_eager0Zà
-	long_nameÒignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessH¨ûÍµ€ÛPğŒ5Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpH°Ôçµ€ÛPØƒZà
-	long_nameÒignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessH ó–¶€ÛPØ…:Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpH¨À´¶€ÛPğïZ
-is_eager0Zà
-	long_nameÒignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0"gõ†®÷¥ExecutorState::ProcessHÀ±à¶€ÛPˆ2Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¦õ†®÷¥ReadVariableOpHøıø¶€ÛPÈ»Zà
-	long_nameÒignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"gõ†®÷¥ExecutorState::ProcessHÈ¢·€ÛPÄ-Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¦õ†®÷¥ReadVariableOpHèì··€ÛPø±Zà
-	long_nameÒignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/BiasAdd/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHàÍŞ·€ÛPğ³¿"Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpHğ÷·€ÛP˜÷)Zß
-	long_nameÑignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulHˆÖÆ¸€ÛPğ—ÉZÌ
-	long_name¾ignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulHˆÉ¿€ÛPÀí—ZÌ
-	long_name¾ignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ìõ†®÷¥UnsortedSegmentSumH˜¼¤Á€ÛPˆí›Z
-	long_nametignnition_model/message_passing/iteration_0/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0Z
-is_eager0"’õ†®÷¥_FusedMatMulHÈøºÍ€ÛPğ®úZÍ
-	long_name¿ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"‚õ†®÷¥SplitHğîÏ€ÛPšµZÄ
-	long_name¶ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2H€ö‡Ó€ÛPêÇZ
-is_eager0ZÄ
-	long_name¶ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0"Šõ†®÷¥SigmoidHÈˆôÔ€ÛP€ÈâZÊ
-	long_name¼ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"ûõ†®÷¥MulHà¾ƒ×€ÛPĞøZZÀ
-	long_name²ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0Z
-is_eager0"õ†®÷¥AddV2HØöŠØ€ÛP˜¼ZÄ
-	long_name¶ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0Z
-is_eager0"ÿõ†®÷¥TanhH¸£ÅØ€ÛP€“ÊZÂ
-	long_name´ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH˜¢µÚ€ÛPØÅòZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"ÿõ†®÷¥AddV2Hˆ‹öÚ€ÛPğéZÂ
-	long_name´ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"‡õ†®÷¥SigmoidHèº¯Û€ÛPĞÄZ
-is_eager0ZÈ
-	long_nameºignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0"ûõ†®÷¥SubH˜èîÛ€ÛP˜„yZÀ
-	long_name²ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0Z
-is_eager0"ıõ†®÷¥MulHĞ¢Šİ€ÛPØƒZÂ
-	long_name´ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHÀÊ¶İ€ÛPÀ¾úZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"ıõ†®÷¥MulHÀä×İ€ÛP°½ZÂ
-	long_name´ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0Z
-is_eager0"õ†®÷¥AddV2HˆÌŞ€ÛPØ†ZÄ
-	long_name¶ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/then/_7/ignnition_model/message_passing/iteration_0/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHˆ‰¾ß€ÛPèŒŸZ
-group_id0Z
-id-4338561866754559737Z
-iter_num0"•õ†®÷¥_FusedMatMulH ƒçß€ÛPèËZĞ
-	long_nameÂignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"‡õ†®÷¥SplitVHà–œá€ÛP˜ú¥ZÈ
-	long_nameºignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHØğëâ€ÛP€ü¤Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"Õõ†®÷¥GatherV2H€¤œã€ÛP°âWZ•
-	long_name‡ignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0Z
-is_eager0"Şõ†®÷¥ConcatV2H¸Ç•ä€ÛPÈæSZ
-	long_nameignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHğŸ§å€ÛP°—Õ	Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¥õ†®÷¥ReadVariableOpHÈÃ×å€ÛP¨×$Zß
-	long_nameÑignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulHã˜æ€ÛPĞ…ªZ
-is_eager0ZÌ
-	long_name¾ignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0"õ†®÷¥_FusedMatMulHğ¦òç€ÛPøğtZÌ
-	long_name¾ignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ëõ†®÷¥UnsortedSegmentSumH¨ø¯é€ÛP°’HZ
-	long_nametignnition_model/message_passing/iteration_1/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0Z
-is_eager0"’õ†®÷¥_FusedMatMulH€ŞÇê€ÛP°‘rZÎ
-	long_nameÀignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"‚õ†®÷¥SplitHÀÈàë€ÛPøáyZÅ
-	long_name·ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2HøÀ‘í€ÛP¨òZÅ
-	long_name·ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0Z
-is_eager0"Šõ†®÷¥SigmoidHÈœÌí€ÛP¨ZË
-	long_name½ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥MulH¸¯ÿí€ÛPà¤ZÁ
-	long_name³ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2Hàî«î€ÛPØ†Z
-is_eager0ZÅ
-	long_name·ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0"ÿõ†®÷¥TanhHÀÔÓî€ÛPøøZÃ
-	long_nameµignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH€ßï€ÛPğ™Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"€õ†®÷¥AddV2H¸µï€ÛPÈ£ZÃ
-	long_nameµignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"ˆõ†®÷¥SigmoidH˜Æçï€ÛPè¿ZÉ
-	long_name»ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥SubH Åğ€ÛP˜»=ZÁ
-	long_name³ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0Z
-is_eager0"şõ†®÷¥MulH¨áõğ€ÛP¸êZÃ
-	long_nameµignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHØÖñ€ÛPØó¼Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"şõ†®÷¥MulH¨÷Áñ€ÛP¨ŸZ
-is_eager0ZÃ
-	long_nameµignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0"‚õ†®÷¥AddV2H¨öëñ€ÛPğûZÅ
-	long_name·ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/then/_29/ignnition_model/message_passing/iteration_1/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH Õæò€ÛPèÏßZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"”õ†®÷¥_FusedMatMulHğéó€ÛPĞ˜zZĞ
-	long_nameÂignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"†õ†®÷¥SplitVHÈ«²ô€ÛP¨É|ZÈ
-	long_nameºignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH¢Ôõ€ÛPĞŒûZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"Õõ†®÷¥GatherV2HÀ”ıõ€ÛP˜£EZ•
-	long_name‡ignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0Z
-is_eager0"Şõ†®÷¥ConcatV2HØÈæö€ÛPÈGZ
-	long_nameignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHğÕÜ÷€ÛPø·ïZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"¥õ†®÷¥ReadVariableOpHÈ£ÿ÷€ÛPĞ¦"Z
-is_eager0Zß
-	long_nameÑignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0"‘õ†®÷¥_FusedMatMulHèíÄø€ÛPØâ˜Z
-is_eager0ZÌ
-	long_name¾ignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0"õ†®÷¥_FusedMatMulHØÓƒú€ÛPiZÌ
-	long_name¾ignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ëõ†®÷¥UnsortedSegmentSumH¬•û€ÛP˜²@Z
-	long_nametignnition_model/message_passing/iteration_2/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0Z
-is_eager0"’õ†®÷¥_FusedMatMulH å™ü€ÛPÈ¡jZÎ
-	long_nameÀignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"‚õ†®÷¥SplitHøñ¤ı€ÛPÈ•nZ
-is_eager0ZÅ
-	long_name·ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0"‚õ†®÷¥AddV2HĞ¹Æş€ÛPĞ¾ZÅ
-	long_name·ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0Z
-is_eager0"Šõ†®÷¥SigmoidH°Ô†ÿ€ÛPÀÿZË
-	long_name½ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥MulHĞæ´ÿ€ÛP€ĞZ
-is_eager0ZÁ
-	long_name³ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0"‚õ†®÷¥AddV2HèİŞÿ€ÛPˆ»#Z
-is_eager0ZÅ
-	long_name·ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0"ÿõ†®÷¥TanhH°÷¡€ÛPğÎZÃ
-	long_nameµignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH€ÍŞ€ÛPàİúZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"€õ†®÷¥AddV2HÄû€ÛPà¡ZÃ
-	long_nameµignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"ˆõ†®÷¥SigmoidHø ³ÛPèËZÉ
-	long_name»ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥SubH˜íÛP¸õ4ZÁ
-	long_name³ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0Z
-is_eager0"şõ†®÷¥MulHà½‚ÛP€ĞZ
-is_eager0ZÃ
-	long_nameµignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0"hõ†®÷¥ExecutorState::ProcessH€ ç‚ÛP°ï¦Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"şõ†®÷¥MulHğıƒÛPèÔZÃ
-	long_nameµignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2HĞã©ƒÛPˆôZÅ
-	long_name·ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/then/_51/ignnition_model/message_passing/iteration_2/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHğ¦›„ÛP¸ƒÔZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"”õ†®÷¥_FusedMatMulH€¸„ÛP¨Ã~ZĞ
-	long_nameÂignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"†õ†®÷¥SplitVHàúß…ÛPĞ¡wZÈ
-	long_nameºignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHˆı†ÛP°ò¢Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Õõ†®÷¥GatherV2HÈ¤¥‡ÛP ÓBZ•
-	long_name‡ignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0Z
-is_eager0"Şõ†®÷¥ConcatV2HÈï‰ˆÛPÈøMZ
-	long_nameignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH¨Û¬‰ÛPü¦
-Z
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpH€Í‰ÛP¨×$Zß
-	long_nameÑignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulH÷ÌŠÛPØûãZ
-is_eager0ZÌ
-	long_name¾ignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0"õ†®÷¥_FusedMatMulHğƒâŒÛP ŞhZÌ
-	long_name¾ignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ëõ†®÷¥UnsortedSegmentSumHÕøÛP¨`Z
-is_eager0Z
-	long_nametignnition_model/message_passing/iteration_3/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0"’õ†®÷¥_FusedMatMulHà­±ÛP¨ˆhZÎ
-	long_nameÀignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"‚õ†®÷¥SplitH°¾ÛPÈ•nZÅ
-	long_name·ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2Hè¦ä‘ÛP¨òZ
-is_eager0ZÅ
-	long_name·ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0"Šõ†®÷¥SigmoidH°Ş’ÛP°®ZË
-	long_name½ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥MulH¨¤Í’ÛPà­ZÁ
-	long_name³ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2H€Îû’ÛPØƒZÅ
-	long_name·ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0Z
-is_eager0"ÿõ†®÷¥TanhH€¾ª“ÛPˆÄ ZÃ
-	long_nameµignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessH€„ç“ÛPØìèZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"€õ†®÷¥AddV2Høù†”ÛPˆ÷ZÃ
-	long_nameµignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"ˆõ†®÷¥SigmoidHˆÜª”ÛPğõZÉ
-	long_name»ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥SubH¸îò”ÛPàĞ.ZÁ
-	long_name³ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0Z
-is_eager0"şõ†®÷¥MulHĞšµ•ÛPğ„ZÃ
-	long_nameµignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHÈòŞ•ÛPàÖ©Z
-iter_num0Z
-group_id0Z
-id-4338561866754559737"şõ†®÷¥MulH°‘–ÛPà˜ZÃ
-	long_nameµignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2H˜ú´–ÛP€ĞZÅ
-	long_name·ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/then/_73/ignnition_model/message_passing/iteration_3/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHØ–—ÛP€òÑZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"”õ†®÷¥_FusedMatMulHèñ¹—ÛPØÎuZĞ
-	long_nameÂignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"†õ†®÷¥SplitVHçÑ˜ÛPÀÜsZÈ
-	long_nameºignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHè¨õ™ÛPèØßZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Õõ†®÷¥GatherV2HøœšÛPøª8Z•
-	long_name‡ignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0Z
-is_eager0"Şõ†®÷¥ConcatV2H€˜õšÛP°ª@Z
-	long_nameignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHøã›ÛPğÌÛZ
-group_id0Z
-id-4338561866754559737Z
-iter_num0"¥õ†®÷¥ReadVariableOpHÈ ‘œÛPôZß
-	long_nameÑignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulHè‘ÊœÛP¨ş”Z
-is_eager0ZÌ
-	long_name¾ignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0"õ†®÷¥_FusedMatMulH‰‹ÛP¸ĞjZÌ
-	long_name¾ignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ëõ†®÷¥UnsortedSegmentSumHÈÒ¡ŸÛP¨ıAZ
-	long_nametignnition_model/message_passing/iteration_4/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0Z
-is_eager0"’õ†®÷¥_FusedMatMulHèĞ© ÛPÀ‰eZÎ
-	long_nameÀignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"‚õ†®÷¥SplitH¨ô¯¡ÛP˜¨mZÅ
-	long_name·ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2H¨Î¢ÛPØâZÅ
-	long_name·ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0Z
-is_eager0"Šõ†®÷¥SigmoidH È£ÛP†ZË
-	long_name½ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"üõ†®÷¥MulHÈõ³£ÛPøŸZÁ
-	long_name³ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2Hèûå£ÛPøŸZ
-is_eager0ZÅ
-	long_name·ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0"ÿõ†®÷¥TanhHĞó”¤ÛPØâZ
-is_eager0ZÃ
-	long_nameµignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0"hõ†®÷¥ExecutorState::ProcessHÀâÓ¤ÛP¸ÖåZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"€õ†®÷¥AddV2HèÅô¤ÛPØñZÃ
-	long_nameµignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"ˆõ†®÷¥SigmoidH¨ô£¥ÛPÈ¬Z
-is_eager0ZÉ
-	long_name»ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0"üõ†®÷¥SubH «Ø¥ÛP˜è.Z
-is_eager0ZÁ
-	long_name³ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0"şõ†®÷¥MulHø•›¦ÛP¸áZÃ
-	long_nameµignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHøÇ¦ÛPÀş»Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"şõ†®÷¥MulH¸·ø¦ÛP˜ÅZÃ
-	long_nameµignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0Z
-is_eager0"‚õ†®÷¥AddV2HÀæŸ§ÛPğşZÅ
-	long_name·ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/then/_95/ignnition_model/message_passing/iteration_4/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHˆù¨ÛPŞÈZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"–õ†®÷¥_FusedMatMulH¸‰®¨ÛP€ñZÑ
-	long_nameÃignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/BiasAdd_1:_FusedMatMulZ
-group_id0Z
-is_eager0"‡õ†®÷¥SplitVH°…É©ÛPàéyZÉ
-	long_name»ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/split_1:SplitVZ
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHØîäªÛP°ö÷Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"Õõ†®÷¥GatherV2HÈ™«ÛP°§AZ
-is_eager0Z•
-	long_name‡ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/GatherV2:GatherV2Z
-group_id0"Şõ†®÷¥ConcatV2Hˆ¸î«ÛPøôIZ
-	long_nameignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/concat:ConcatV2Z
-group_id0Z
-is_eager0"hõ†®÷¥ExecutorState::ProcessHÙí¬ÛPÈ¶ËZ
-iter_num0Z
-group_id0Z
-id-4338561866754559737"¥õ†®÷¥ReadVariableOpH°˜­ÛPğÚZß
-	long_nameÑignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/MatMul/ReadVariableOp:ReadVariableOpZ
-group_id0Z
-is_eager0"‘õ†®÷¥_FusedMatMulHÈÙÈ­ÛP°·ZÌ
-	long_name¾ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_0_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"õ†®÷¥_FusedMatMulH¸³‹¯ÛPøkZÌ
-	long_name¾ignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/message_phase/atom_to_atom/create_message_atom_to_atom/apply_nn_0/sequential/layer_1_Dense_message_creation_0/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"Ëõ†®÷¥UnsortedSegmentSumH˜Ò°ÛPà²8Z
-	long_nametignnition_model/message_passing/iteration_5/stage_0/MP_to_atom/aggregation/sum/UnsortedSegmentSum:UnsortedSegmentSumZ
-group_id0Z
-is_eager0"“õ†®÷¥_FusedMatMulH˜À ±ÛP¨ÿjZÏ
-	long_nameÁignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"ƒõ†®÷¥SplitHĞ›±²ÛPèºlZ
-is_eager0ZÆ
-	long_name¸ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/split:SplitZ
-group_id0"ƒõ†®÷¥AddV2HˆÜÊ³ÛP ËZ
-is_eager0ZÆ
-	long_name¸ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/add_1:AddV2Z
-group_id0"‹õ†®÷¥SigmoidHĞ–ƒ´ÛP¸ÉZÌ
-	long_name¾ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/Sigmoid_1:SigmoidZ
-group_id0Z
-is_eager0"ıõ†®÷¥MulHˆ†º´ÛPZÂ
-	long_name´ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/mul:MulZ
-group_id0Z
-is_eager0"ƒõ†®÷¥AddV2H¨˜è´ÛPÈ»ZÆ
-	long_name¸ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/add_2:AddV2Z
-group_id0Z
-is_eager0"€õ†®÷¥TanhHø ”µÛPø„Z
-is_eager0ZÄ
-	long_name¶ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/Tanh:TanhZ
-group_id0"hõ†®÷¥ExecutorState::ProcessHĞ¯ËµÛPËûZ
-id-4338561866754559737Z
-iter_num0Z
-group_id0"õ†®÷¥AddV2Hè²ñµÛPĞÖZÄ
-	long_name¶ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/add:AddV2Z
-group_id0Z
-is_eager0"‰õ†®÷¥SigmoidH˜Î¶¶ÛPÀ…ZÊ
-	long_name¼ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/Sigmoid:SigmoidZ
-group_id0Z
-is_eager0"ıõ†®÷¥SubHØ‚ä¶ÛP¨¿,Z
-is_eager0ZÂ
-	long_name´ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/sub:SubZ
-group_id0"ÿõ†®÷¥MulHÈÜ©·ÛP°ÃZ
-is_eager0ZÄ
-	long_name¶ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/mul_2:MulZ
-group_id0"hõ†®÷¥ExecutorState::ProcessHèôÕ·ÛPø€Z
-id-4338561866754559737Z
-iter_num0Z
-group_id0"ÿõ†®÷¥MulH ²ó·ÛP òZ
-is_eager0ZÄ
-	long_name¶ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/mul_1:MulZ
-group_id0"ƒõ†®÷¥AddV2HØÑš¸ÛP€ĞZÆ
-	long_name¸ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/then/_117/ignnition_model/message_passing/iteration_5/stage_0/updates/update_atom/cond/gru_cell/add_3:AddV2Z
-group_id0Z
-is_eager0"~õ†®÷¥MeanHøƒè¸ÛP¨Ä¹	ZB
-	long_name5ignnition_model/readout_predictions/pooling/Mean:MeanZ
-group_id0Z
-is_eager0"¸õ†®÷¥_FusedMatMulHàÈ†ÄÛPÀÈÊZt
-	long_namegignnition_model/readout_predictions/neural_network/sequential_1/layer_0_Dense_readout/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"·õ†®÷¥_FusedMatMulHğŸûÆÛPø§9Zt
-	long_namegignnition_model/readout_predictions/neural_network/sequential_1/layer_1_Dense_readout/Relu:_FusedMatMulZ
-group_id0Z
-is_eager0"ºõ†®÷¥_FusedMatMulHøÖÉÇÛPÕQZw
-	long_namejignnition_model/readout_predictions/neural_network/sequential_1/layer_2_Dense_readout/BiasAdd:_FusedMatMulZ
-group_id0Z
-is_eager0"°õ†®÷¥SigmoidH¨ĞÃÈÛPğ³(Zr
-	long_nameeignnition_model/readout_predictions/neural_network/sequential_1/layer_2_Dense_readout/Sigmoid:SigmoidZ
-group_id0Z
-is_eager0"Xõ†®÷¥ExecutorDoneCallbackHøø…ÌÛPøô¼Z
-group_id0Z
-id-4338561866754559737
